@@ -1,4 +1,2 @@
-s = 'Abracadabra'
-for i in range(3):
-    print(s[0:3])
-    print(i)
+s = "Abracadabra"                   #Вывести предпоследний символ этой строки.
+print(s[2:3])
